@@ -1,8 +1,7 @@
 # EMPLOYEE-ANALYTICS-DASHBOARD
 
-Overview
+**Overview**
 ![Screenshot_20240303_121100](https://github.com/Ritik342001/EMPLOYEE-ANALYTICS-DASHBOARD/assets/119922908/783007fb-466d-4bb7-b4ea-505aced0739d)
-
 
 
 This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
@@ -12,7 +11,7 @@ HR analytics aim to provide insight into how best to manage employees and reach 
 The objective is to monitor key HR metrics on employees and identify what factors impact attrition.Created several reports with information on following factors which will help the organization determine what action they will need to take to retain more employees. Taken some necessary steps to get insights.
 
 
-Tools Used:
+**Tools Used:**
 
 Power BI
 
@@ -21,7 +20,7 @@ Power Query
 Dax Query
 
 
-Cleaning and Analyzing using Power Query:
+**Cleaning and Analyzing using Power Query:**
 
 Open Excel and connect to your employee data
 
@@ -38,14 +37,14 @@ Encapsulate all steps into a function to be reused for future sheets and data
 Load and Apply the cleaned data into Power BI
 
 
-Exploring and Manipulate Some Data Using DAX Query:
+**Exploring and Manipulate Some Data Using DAX Query:**
 
 With DAX Query, we can effectively manipulate and analyze the data to provide insights for visulization and identify areas for improvement for HR.
 
 Create Measures and columns Using DAX functions such as count, sum function for exploring some clean data for improve dashboard KPI in PowerBI.
 
 
-Power BI Dashboard Visualization:
+**Power BI Dashboard Visualization:**
 
 Design the dashboard layout
 
@@ -60,6 +59,6 @@ Add Month column as Slicer and add some informative KPI.
 Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
 
-Conclusion:
+**Conclusion:**
 
 Analyzed employee data to identify trends and insights using Power Query and DAX in Power BI. Created an interactive dashboard to track employee turnover and reasons for attrition. Discovered that salespeople are leaving the company in greater numbers due to a lower salary and stagnant hike rates. Provided visualizations and actionable insights to the HR team to address the issue and retain employees.
